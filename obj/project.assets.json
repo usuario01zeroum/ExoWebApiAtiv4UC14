@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\FullStack\\UC14\\Atividade_4\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\FullStack\\UC14\\Atividade_4_5\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\FullStack\\UC14\\Atividade_4\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\FullStack\\UC14\\Atividade_4_5\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\FullStack\\UC14\\Atividade_4\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\FullStack\\UC14\\Atividade_4_5\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
